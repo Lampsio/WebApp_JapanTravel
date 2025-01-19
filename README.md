@@ -14,7 +14,7 @@ reservation booking, reviews, and a chatbot that answers queries. Additionally, 
 ## Technologies Used
 - **React:** A JavaScript library for building user interfaces.
 - **Python:** A programming language that powers the backend logic.
-- **FastAPI:** A modern, fast (high-performance) web framework for building APIs with Python.
+- **Django:** A modern, fast (high-performance) web framework for building APIs with Python.
 - **Langchain:** A framework to manage and customize the interactions with language models.
 - **HuggingFace:** A platform providing state-of-the-art natural language processing models.
 - **PostgreSQL:** A powerful, open-source object-relational database system.
